@@ -4,11 +4,7 @@
 ---
 <div align="center">
 
-<img src="https://avatars.githubusercontent.com/u/62063380?v=4" width="96" height="96" style="border-radius:50%" alt="Cristian Fernandes" />
-
-# Cristian Fernandes
-
-**Senior Full‑Stack Developer** · Node.js, TypeScript, React/Next.js · APIs, Microservices, CI/CD
+# 👋 Hi there! Welcome to my GitHub profile
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-cristian--daniel--fernandes-blue?logo=linkedin)](https://www.linkedin.com/in/cristian-daniel-fernandes)
 [![Email](https://img.shields.io/badge/Email-cristian.daniel.fernandes%40gmail.com-red?logo=gmail)](mailto:cristian.daniel.fernandes@gmail.com)
@@ -51,10 +47,6 @@ This is my **GitHub profile README** (`dnwest`). It serves as a **professional s
 - **Clear over clever** · **Useful tests** · **Fast pipelines**  
 - **Minimum viable observability** (structured logs/trace id)  
 - **Evolutionary design**: iterative refinement and controlled tech debt
-
-## 📬 Contact
-- **LinkedIn**: https://www.linkedin.com/in/cristian-daniel-fernandes  
-- **Email**: cristian.daniel.fernandes@gmail.com
 
 ---
 

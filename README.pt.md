@@ -3,12 +3,8 @@
 
 ---
    <div align="center">
-
-<img src="https://avatars.githubusercontent.com/u/62063380?v=4" width="96" height="96" style="border-radius:50%" alt="Cristian Fernandes" />
  
-   # Cristian Fernandes
-   
-   **Senior Full‑Stack Developer** · Node.js, TypeScript, React/Next.js · APIs, Microservices, CI/CD
+   # 👋 Olá! Seja bem-vindo ao meu perfil GitHub
    
    [![LinkedIn](https://img.shields.io/badge/LinkedIn-cristian--daniel--fernandes-blue?logo=linkedin)](https://www.linkedin.com/in/cristian-daniel-fernandes)
    [![Email](https://img.shields.io/badge/Email-cristian.daniel.fernandes%40gmail.com-red?logo=gmail)](mailto:cristian.daniel.fernandes@gmail.com)
@@ -51,10 +47,6 @@
    - **Código claro antes de esperto** · **Testes úteis** · **Pipelines rápidos**  
    - **Observabilidade mínima viável** (logs estruturados/trace id)  
    - **Design evolutivo**: pensar em refino contínuo e dívida técnica sob controle
-   
-   ## 📬 Contato
-   - **LinkedIn**: https://www.linkedin.com/in/cristian-daniel-fernandes  
-   - **Email**: cristian.daniel.fernandes@gmail.com
    
    ---
    
