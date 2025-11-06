@@ -35,7 +35,7 @@
    ## 🧰 Tech Radar (principal)
    **Backend**: Node.js, TypeScript, NestJS/Express, PostgreSQL, Redis, Prisma  
    **Frontend**: React, Next.js (App Router), Tailwind, SSR/ISR  
-   **Infra/DevOps**: Docker, GitHub Actions, CI/CD, AWS,observabilidade básica
+   **Infra/DevOps**: Docker, GitHub Actions, CI/CD, AWS,observabilidade básica  
    **Padrões**: Clean Architecture, SOLID, DTOs, Idempotência, Retry/Backoff
    
    ## 🗂️ Projetos em destaque
