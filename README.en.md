@@ -11,13 +11,19 @@
 [![Location](https://img.shields.io/badge/Brazil-São%20Paulo-2ea44f)](#)
 [![Languages](https://img.shields.io/badge/PT--BR%20%7C%20EN-Bilingual-59316B)](#)
 
+**Open to:** Backend (Node.js) · Full-Stack (Next.js) · Remote (UTC-3)  
+**Primary stack:** Node.js (NestJS), TypeScript, PostgreSQL, Redis, Prisma, Docker, CI/CD, AWS
+
+
 </div>
 
-> **Positioning**: With over 16 years of experience in Information Technology, my current focus is 100% Development, serving as a specialized Full-Stack Engineer. My expertise spans both robust backend development using Node.js/TypeScript and modern frontend solutions with Next.js. In every project, my goal is to ensure technical excellence, prioritizing performance, systemic observability, and software quality.
+> **Profile statement:** With 16+ years in technology, I am fully focused on software engineering — specializing in **Node.js/TypeScript backend** and **Next.js frontend**.  
+> My goal is to deliver scalable, clean and observable solutions — prioritizing performance, testability, and long-term maintainability.
+
 
 ## 🌟 What this repository communicates
 This is my **GitHub profile README** (`dnwest`). It serves as a **professional showcase** for:
-- **Roles I’m targeting**: Backend/Full‑Stack (remote/international).  
+- **Roles I’m targeting**: Backend/Full‑Stack.  
 - **How I work**: clean architecture, testing, automation, continuous delivery.  
 - **What you’ll find**: reference projects, practical templates, study notes.
 
@@ -29,7 +35,7 @@ This is my **GitHub profile README** (`dnwest`). It serves as a **professional s
 ## 🧰 Tech Radar (core)
 **Backend**: Node.js, TypeScript, NestJS/Express, PostgreSQL, Redis, Prisma  
 **Frontend**: React, Next.js (App Router), Tailwind, SSR/ISR  
-**Infra/DevOps**: Docker, GitHub Actions, CI/CD, basic observability  
+**Infra/DevOps**: Docker, GitHub Actions, CI/CD, AWS, basic observability  
 **Patterns**: Clean Architecture, SOLID, DTOs, Idempotency, Retry/Backoff
 
 ## 🗂️ Spotlight projects

@@ -11,13 +11,19 @@
    [![Location](https://img.shields.io/badge/Brazil-São%20Paulo-2ea44f)](#)
    [![Languages](https://img.shields.io/badge/PT--BR%20%7C%20EN-Bilingual-59316B)](#)
    
+**Disponível para:** Backend (Node.js) · Full-Stack (Next.js) · Remoto (UTC-3)  
+**Stack principal:** Node.js (NestJS), TypeScript, PostgreSQL, Redis, Prisma, Docker, CI/CD, AWS
+
+
    </div>
    
-   > **Posicionamento**: Com mais de 16 anos de trajetória em Tecnologia da Informação, meu foco atual é 100% Desenvolvimento, atuando como um Engenheiro Full-Stack especialista. Minha experiência abrange o backend robusto com Node.js/TypeScript e o frontend moderno utilizando Next.js. Em cada projeto, meu objetivo é garantir a excelência técnica, priorizando performance, observabilidade sistêmica e qualidade de software.
+> **Posicionamento:** Com mais de 16 anos de experiência em tecnologia, atuo hoje 100% com **engenharia de software**, tendo foco em **backend Node.js/TypeScript** e **frontend Next.js**.  
+> Busco entregar soluções escaláveis, limpas e observáveis — priorizando performance, testabilidade e manutenibilidade a longo prazo.
+
    
    ## 🌟 O que este repositório comunica
    Este é o **README do meu perfil GitHub** (repo `dnwest`). Ele serve como **vitrine profissional** para:
-   - **Papéis que busco**: Backend/Full‑Stack (remoto/internacional).
+   - **Papéis que busco**: Backend/Full‑Stack.
    - **Como eu trabalho**: arquitetura limpa, testes, automação e entrega contínua.
    - **O que você vai encontrar**: projetos de referência, templates práticos e estudos.
    
@@ -29,7 +35,7 @@
    ## 🧰 Tech Radar (principal)
    **Backend**: Node.js, TypeScript, NestJS/Express, PostgreSQL, Redis, Prisma  
    **Frontend**: React, Next.js (App Router), Tailwind, SSR/ISR  
-   **Infra/DevOps**: Docker, GitHub Actions, CI/CD, observabilidade básica  
+   **Infra/DevOps**: Docker, GitHub Actions, CI/CD, AWS,observabilidade básica
    **Padrões**: Clean Architecture, SOLID, DTOs, Idempotência, Retry/Backoff
    
    ## 🗂️ Projetos em destaque
