@@ -27,6 +27,6 @@ I specialize in building scalable, reliable, and high-performance applications b
 
 ### 📫 Let's Connect
 *   **Portfolio & Services:** [www.dnwest.dev](https://www.dnwest.dev)
-*   **LinkedIn:** [linkedin.com/in/seu-perfil](https://linkedin.com/in/cristianfernandes-dev)
+*   **LinkedIn:** [linkedin.com/in/cristianfernandes-dev](https://https://www.linkedin.com/in/cristianfernandes-dev/)
 
 > *Currently architecting high-performance solutions for enterprise clients. Public architecture showcases coming soon.*
