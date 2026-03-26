@@ -1,7 +1,7 @@
 ### Hi there, I'm Cristian 👋
 #### Senior Cloud & Backend Architect
 
-I specialize in building scalable, reliable, and high-performance applications bridging the gap between complex business requirements and technical excellence.
+Building resilient, scalable, and production-ready software with Node.js, TypeScript, AWS, and modern DevOps practices.
 
 ---
 
@@ -23,10 +23,15 @@ I specialize in building scalable, reliable, and high-performance applications b
 ![NestJS](https://img.shields.io/badge/nestjs-%23E0234E.svg?style=for-the-badge&logo=nestjs&logoColor=white)
 ![Postgres](https://img.shields.io/badge/postgres-%23316192.svg?style=for-the-badge&logo=postgresql&logoColor=white)
 
+### 🏗️ Architecture Showcases
+
+| Project | Description | Key Technologies |
+|---------|-------------|-------------------|
+| [resilient-node-microservice](https://github.com/dnwest/resilient-node-microservice) | Synchronous API demonstrating fault tolerance, Circuit Breakers, and Graceful Shutdown under high load | Node.js, Express, Rate Limiter, Circuit Breaker |
+| [event-driven-order-processor](https://github.com/dnwest/event-driven-order-processor) | *(Coming soon)* Asynchronous distributed system using AWS SQS/SNS and Dead Letter Queues | AWS SQS/SNS, Event-Driven, DLQ |
+
 ---
 
 ### 📫 Let's Connect
 *   **Portfolio & Services:** [www.dnwest.dev](https://www.dnwest.dev)
 *   **LinkedIn:** [linkedin.com/in/cristianfernandes-dev](https://www.linkedin.com/in/cristianfernandes-dev/)
-
-> *Currently architecting high-performance solutions for enterprise clients. Public architecture showcases coming soon.*
