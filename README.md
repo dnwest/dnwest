@@ -28,7 +28,7 @@ Building resilient, scalable, and production-ready software with Node.js, TypeSc
 | Project | Description | Key Technologies |
 |---------|-------------|-------------------|
 | [resilient-node-microservice](https://github.com/dnwest/resilient-node-microservice) | Synchronous API demonstrating fault tolerance, Circuit Breakers, and Graceful Shutdown under high load | Node.js, Express, Rate Limiter, Circuit Breaker |
-| [event-driven-order-processor](https://github.com/dnwest/event-driven-order-processor) | *(Coming soon)* Asynchronous distributed system using AWS SQS/SNS and Dead Letter Queues | AWS SQS/SNS, Event-Driven, DLQ |
+| [event-driven-order-processor](https://github.com/dnwest/event-driven-order-processor) | Asynchronous distributed system showcasing AWS SNS/SQS Pub-Sub patterns, fail-fast validation, and Dead Letter Queues. | AWS SQS/SNS, Event-Driven, DLQ |
 
 ---
 
