@@ -1,7 +1,7 @@
 ### Hi there, I'm Cristian 👋
-#### Senior Cloud & Backend Architect
+#### Senior Software Engineer & Cloud Architect
 
-I design and ship resilient, event-driven backends — distributed systems that
+I design and ship resilient, event-driven backends, distributed systems that
 stay observable and keep running when things go wrong. Node.js / TypeScript on
 AWS, with production-grade DevOps around them.
 
