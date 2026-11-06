@@ -1,7 +1,7 @@
 ### Hi there, I'm Cristian 👋
 #### Senior Software Engineer | Backend · Cloud · Distributed Systems
 
-Over 15 years building enterprise software. I design and ship resilient,
+Nearly 18 years in IT, building enterprise software. I design and ship resilient,
 event-driven backends, distributed systems that stay observable and keep running
 when things go wrong. Node.js / TypeScript on AWS, with production-grade DevOps
 around them.
@@ -14,7 +14,7 @@ playable game whose leaderboard survives its own database going down.
 ### 🚀 Core Expertise
 *   **Architecture:** Event-Driven Design, Distributed Systems, Microservices, Modular Monoliths, Clean / Hexagonal Architecture.
 *   **Backend:** Node.js, NestJS, TypeScript, PostgreSQL, Redis, Next.js.
-*   **Cloud & DevOps:** AWS (SQS/SNS, Lambda, EC2, S3, RDS), Docker, Terraform, GitHub Actions, CI/CD.
+*   **Cloud & DevOps:** AWS (SQS/SNS, Lambda, EC2, S3, RDS), Docker, Kubernetes, Terraform, GitHub Actions, CI/CD.
 *   **Resilience & Performance:** Circuit Breakers, DLQs, idempotency, graceful shutdown, observability, load testing with k6.
 
 ---
@@ -28,6 +28,7 @@ playable game whose leaderboard survives its own database going down.
 ![Next.js](https://img.shields.io/badge/next.js-000000.svg?style=for-the-badge&logo=nextdotjs&logoColor=white)
 ![AWS](https://img.shields.io/badge/AWS-%23FF9900.svg?style=for-the-badge&logo=amazon-aws&logoColor=white)
 ![Docker](https://img.shields.io/badge/docker-%230db7ed.svg?style=for-the-badge&logo=docker&logoColor=white)
+![Kubernetes](https://img.shields.io/badge/kubernetes-%23326ce5.svg?style=for-the-badge&logo=kubernetes&logoColor=white)
 ![Terraform](https://img.shields.io/badge/terraform-%235835CC.svg?style=for-the-badge&logo=terraform&logoColor=white)
 
 ---
